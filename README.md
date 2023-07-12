@@ -7,7 +7,6 @@ Made By yıldırımlord<3
 
 # Gereken Programlar
 - En son Python sürümü
-- GitSCM
 # Kurulum
 Windows için PowerShell'de, Linux dağıtımlarında terminal kullanabilirsiniz.
 ```
