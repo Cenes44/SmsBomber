@@ -1,6 +1,6 @@
 
-# Yıldıırm-SmsBomber [https://discord.gg/m7wAfPgeNx]
-Made By yıldırımlord
+# SmS-Bomber [https://discord.gg/m7wAfPgeNx]
+Made By yıldırımlord<3
 
 ![image](https://user-images.githubusercontent.com/123809149/219619883-17e566e0-284c-4f6d-94fe-379c2207b206.png)
 ![2](https://user-images.githubusercontent.com/123809149/219620939-717957d8-3699-4471-9a35-091afa9119fb.png)
@@ -11,7 +11,7 @@ Made By yıldırımlord
 # Kurulum
 Windows için PowerShell'de, Linux dağıtımlarında terminal kullanabilirsiniz.
 ```
-Windowsta direkt olarak baslat.bat dosyası ile çalıştırabilirsiniz.
+Windowsta Kurulum Aracı klasöründen kurulumu rahatça yapabilirsiniz.
 ```
 
 ```
@@ -23,7 +23,7 @@ python3 smsbomber.py
 # Özellikler
 - Sonsuz SMS desteği
 - Çoklu numara desteği (max 5)
-- 52 Servis (%91 başarı oranı)
+- 58 Servis (%69 başarı oranı)
 - Servis güncellemeleri
 - Açık kaynak kodlu
 - Ultra gizli
